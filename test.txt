@@ -1,0 +1,1 @@
+Hello AWS Community Builders! This text will be converted into speech automatically using Polly.
