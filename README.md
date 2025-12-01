@@ -1,4 +1,4 @@
-# Text narrator using Amazon Polly
+# Text Narrator using Amazon Polly
 
 ### Project Overview:
 In this project, we will be developing a text narrator using Amazon Polly. A piece of text (book, article, newsletter) will be uploaded in an Amazon S3 bucket and converted to speech. The voice, pitch and speed parmeters can be adjusted.
@@ -98,6 +98,14 @@ def lambda_handler(event, context):  # ✅ This name is required
 ### Estimated Time & Cost:
 * This project is estimated to take about 20-30 minutes
 * Cost: Free (When using the AWS Free Tier)
+
+### Follow me:
+* Join the channel: https://www.youtube.com/channel/UCwhERUcuzUCwr8x8mQ8zrcw/join
+* YouTube: https://www.youtube.com/@TechWithYeshwanth/videos
+* Follow our GitHub here: https://github.com/yeshwanthlm
+* Follow our blog here: https://dev.to/yeshwanthlm/
+* Follow us on Instagram: https://www.instagram.com/techwithyeshwanth/
+* Follow us on LinkedIn: https://www.linkedin.com/in/yeshwanth-l-m/
 
 Congratulations! You have successfully completed the project of text to speech translation using Amazon Polly, Lambda and S3 bucket.
 
