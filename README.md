@@ -6,7 +6,7 @@ In this project, we will be developing a text narrator using Amazon Polly. A pie
 ### Video Tutorial:
 <img width="1920" height="1080" alt="Amazon Polly (1)" src="https://github.com/user-attachments/assets/37474fa9-7b59-45e4-b6b6-0e15ea2c9e01" />
 
-Video Link:
+Video Link: https://youtu.be/LAb6yYE87Fk
 
 ### Steps to be Performed:
 In this video, we'll be going through the following steps.
